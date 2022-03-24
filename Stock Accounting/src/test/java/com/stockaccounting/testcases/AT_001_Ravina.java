@@ -13,8 +13,8 @@ public class AT_001_Ravina {
 	 * Steps :
 	 * 			01 : Open Browser
 	 * 			02 : Launch Application Url : http://orangehrm.qedgetech.com/webapp/login.php
-	 * 			03 : Enter User Name
-	 * 			04 : Enter Password
+	 * 			03 : Enter User Name : admin
+	 * 			04 : Enter Password  : master
 	 * 			05 : Click On Login Button
 	 * 			06 : Validate Result : Check if login successful or not
 	 * */
